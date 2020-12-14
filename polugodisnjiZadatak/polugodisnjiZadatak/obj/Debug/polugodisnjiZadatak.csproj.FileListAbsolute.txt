@@ -1,0 +1,10 @@
+C:\Users\Janjo\source\repos\polugodisnjiZadatak\polugodisnjiZadatak\bin\Debug\polugodisnjiZadatak.exe.config
+C:\Users\Janjo\source\repos\polugodisnjiZadatak\polugodisnjiZadatak\bin\Debug\polugodisnjiZadatak.exe
+C:\Users\Janjo\source\repos\polugodisnjiZadatak\polugodisnjiZadatak\bin\Debug\polugodisnjiZadatak.pdb
+C:\Users\Janjo\source\repos\polugodisnjiZadatak\polugodisnjiZadatak\obj\Debug\polugodisnjiZadatak.csprojAssemblyReference.cache
+C:\Users\Janjo\source\repos\polugodisnjiZadatak\polugodisnjiZadatak\obj\Debug\polugodisnjiZadatak.Form1.resources
+C:\Users\Janjo\source\repos\polugodisnjiZadatak\polugodisnjiZadatak\obj\Debug\polugodisnjiZadatak.Properties.Resources.resources
+C:\Users\Janjo\source\repos\polugodisnjiZadatak\polugodisnjiZadatak\obj\Debug\polugodisnjiZadatak.csproj.GenerateResource.cache
+C:\Users\Janjo\source\repos\polugodisnjiZadatak\polugodisnjiZadatak\obj\Debug\polugodisnjiZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Janjo\source\repos\polugodisnjiZadatak\polugodisnjiZadatak\obj\Debug\polugodisnjiZadatak.exe
+C:\Users\Janjo\source\repos\polugodisnjiZadatak\polugodisnjiZadatak\obj\Debug\polugodisnjiZadatak.pdb
